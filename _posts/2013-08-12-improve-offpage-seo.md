@@ -2,8 +2,8 @@
 layout: post
 title: Improving OFF-page
 tags:
-  - jekyll
-  - syntax
+  - offpage
+  - seo
 categories:
   - blog
 published: true
