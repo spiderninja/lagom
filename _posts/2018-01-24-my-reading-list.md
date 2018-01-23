@@ -1,5 +1,11 @@
 ---
 published: true
+layout: post
+tags:
+  - code
+  - seo
+categories:
+  - blog
 ---
 Reading is one of my passion and I am a bookworm since I was a child. You could always find me nook or any corner immersed in a book, forgetting to eat, play or be social. Now, I do not get a chance to indulge reading hours like I used to, I still read books every free chance I get. I have written and talked about my love book reading and benefits of reading in 101 changes series, before but this time I sharing my favorite books that I love and I hope you like it too. There are several benefits to reading and there are many fun kids books that we should read once.
 
